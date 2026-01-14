@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm A'laa Farooq 👋</h1>
-<h3 align="center">
-AI Student · Machine Learning Trainee · NLP Enthusiast
-</h3>
+<h1 align="center">Hello, I'm A'laa Farooq 👋</h1>
+<h3 align="center">AI Student | Machine Learning Trainee | Applied AI Enthusiast</h3>
 
 <div align="center">
 
 <a href="https://github.com/AlaaKamalFaroq">
-  <img src="https://komarev.com/ghpvc/?username=AlaaKamalFaroq&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AlaaKamalFaroq&label=Profile%20views&color=0e75b6&style=flat" />
 </a>
 <a href="https://github.com/AlaaKamalFaroq">
   <img src="https://img.shields.io/github/followers/AlaaKamalFaroq?style=social" />
@@ -15,44 +13,81 @@ AI Student · Machine Learning Trainee · NLP Enthusiast
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:alaakamal7957358@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Animation"/>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="ai gif"/>
 
-[cite_start]I am an **Artificial Intelligence student at Helwan University** focused on building intelligent systems through **Machine Learning and NLP**[cite: 6, 8]. [cite_start]I am currently a **Trainee at the Ministry of Communications and Information Technology (DEPI)**, applying deep learning to real-world datasets[cite: 11, 12].
+I’m an **Artificial Intelligence student at Helwan University** with strong interest in  
+**Machine Learning, NLP, and Applied AI systems**.
 
-- [cite_start]🎓 **Education:** AI Major – Helwan University (GPA: 3.52 / 4.0 – Excellent)[cite: 6, 7].
-- [cite_start]💼 **Current Role:** AI & ML Trainee @ MCIT (DEPI)[cite: 11].
-- [cite_start]🧠 **Key Achievement:** Developed a BERT-based NLP model to protect teenagers from harmful content[cite: 15].
-- [cite_start]👩‍🏫 **Mentorship:** Delivered technical lectures on Git, GitHub, and C++ for university bootcamps[cite: 39, 40].
-- [cite_start]📫 **Contact:** alaakamal7957358@gmail.com[cite: 2].
+I enjoy working on **real-world datasets**, understanding models deeply, and implementing  
+algorithms from scratch to build strong foundations.
+
+- 🎓 **Major:** Artificial Intelligence (GPA: 3.52 / 4.0 – Excellent)
+- 🔭 **Currently working on:** ML & NLP projects
+- 🌱 **Currently learning:** Deep Learning (CNNs, RNNs) & Model Evaluation
+- 💼 **Open to:** AI / ML Internships & Research-oriented opportunities
+- 📫 **Reach me at:** alaakamal7957358@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-- [cite_start]**Programming:** Python, C, C++, Java, JavaScript, HTML, CSS[cite: 58].
-- [cite_start]**AI & Data Science:** Pandas, NumPy, Scikit-learn, NLP (RNNs, BERT)[cite: 58, 15, 26].
-- [cite_start]**Web Scraping:** BeautifulSoup, Requests[cite: 35].
-- [cite_start]**Tools:** Git, GitHub, Jupyter Notebooks[cite: 58].
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+</div>
+
+### Data Science & Machine Learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+</div>
+
+### Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-- [cite_start]🛡️ **Harmful Content Detection:** An NLP project using **BERT** to filter harmful content, presented at Helwan Cyber Arena 2025[cite: 15].
-- [cite_start]📧 **Email Spam Classifier:** An NLP model built with **RNNs** that achieved **98% accuracy**[cite: 25, 26].
-- [cite_start]🛒 **Automated Scrapers:** Python-based GUI tools for extracting data from Amazon, Booking.com, and Yallakora[cite: 22, 23, 34, 35].
-- [cite_start]🌦️ **Rainfall Prediction:** Data analysis and visualization of 10 years of Australian weather data[cite: 31, 32].
-- [cite_start]🧠 **KNN From Scratch:** Pure Python implementation of the K-Nearest Neighbors algorithm[cite: 27, 28].
+- 🧠 **Email Spam / Ham Classifier**  
+  NLP-based classifier using RNNs, achieving high accuracy on real datasets.
+
+- 📈 **Predicting Rainfall in Australia**  
+  Data analysis & visualization of long-term weather data using Python.
+
+- 🔍 **KNN From Scratch vs Scikit-learn**  
+  Implemented KNN algorithm manually to understand distance metrics and model behavior.
+
+- 🌐 **Football Match Scraper**  
+  Web scraping project using BeautifulSoup & Requests to produce clean CSV outputs.
 
 ---
 
@@ -60,11 +95,8 @@ AI Student · Machine Learning Trainee · NLP Enthusiast
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlaaKamalFaroq&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaKamalFaroq&layout=compact&theme=radical" height="170" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AlaaKamalFaroq&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlaaKamalFaroq&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=AlaaKamalFaroq&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaKamalFaroq&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150"/>
 
 </div>
