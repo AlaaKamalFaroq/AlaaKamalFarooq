@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="ai gif"/>
 
@@ -38,7 +38,7 @@ algorithms from scratch to build strong foundations.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <div align="left">
@@ -75,7 +75,7 @@ algorithms from scratch to build strong foundations.
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - 🧠 **Email Spam / Ham Classifier**  
   NLP-based classifier using RNNs, achieving high accuracy on real datasets.
@@ -91,7 +91,7 @@ algorithms from scratch to build strong foundations.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
