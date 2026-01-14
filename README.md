@@ -77,17 +77,11 @@ algorithms from scratch to build strong foundations.
 
 ##  Featured Projects
 
-- 🧠 **Email Spam / Ham Classifier**  
-  NLP-based classifier using RNNs, achieving high accuracy on real datasets.
-
-- 📈 **Predicting Rainfall in Australia**  
-  Data analysis & visualization of long-term weather data using Python.
-
-- 🔍 **KNN From Scratch vs Scikit-learn**  
-  Implemented KNN algorithm manually to understand distance metrics and model behavior.
-
-- 🌐 **Football Match Scraper**  
-  Web scraping project using BeautifulSoup & Requests to produce clean CSV outputs.
+- **Harmful Content Detection:** An NLP project using **BERT** to filter harmful content, presented at Helwan Cyber Arena 2025[cite: 15].
+-  **Email Spam Classifier:** An NLP model built with **RNNs** that achieved **98% accuracy**[cite: 25, 26].
+-  **Automated Scrapers:** Python-based GUI tools for extracting data from Amazon, Booking.com, and Yallakora[cite: 22, 23, 34, 35].
+-  **Rainfall Prediction:** Data analysis and visualization of 10 years of Australian weather data[cite: 31, 32].
+-  **KNN From Scratch:** Pure Python implementation of the K-Nearest Neighbors algorithm[cite: 27, 28].
 
 ---
 
